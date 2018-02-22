@@ -7,4 +7,6 @@ mul
 function(){
 	
 }
+tan
+cot
 
