@@ -1,3 +1,18 @@
+
 function(a,b){
 	return a*b;
 }
+
+
+add
+aub
+div
+mul
+
+function(){
+	
+}
+tan
+cot
+
+
